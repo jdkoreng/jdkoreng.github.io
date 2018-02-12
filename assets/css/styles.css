@@ -1,0 +1,127 @@
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+.red{
+    color:red;
+    }
+.form-area
+{
+    background-color: #FAFAFA;
+	padding: 10px 40px 60px;
+	margin: 10px 0px 60px;
+    border: 1px solid GREY;
+    height: 370px;
+    }
+    
+    .myMainForm {
+        height: 370px;
+    }
+
+
+body {
+
+    background-color: lightblue;
+}
+
+.AboutPar {
+
+    text-align: right;
+    font-size: 19px;
+}
+
+.img1 {
+    float: left;
+}
+
+.AboutMeTitle {
+
+    font-size: 56px;
+    color: blue;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+.ConnectMeTitle {
+    text-align: center;
+
+    font-size: 56px;
+    color: blue;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+.nameBox{
+
+    height: 75px;
+    color: purple;
+    background-color: teal; 
+    margin-left: 100px;
+    width: 400px;  
+    padding-bottom: 100px;
+    padding-top: 1px; 
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    text-align: center; 
+
+
+}
+
+.portIMG {
+
+    border:1px solid black;
+}
+
+.aboutMe {
+    margin-left: 115px;
+    width: 800px;; 
+}
+
+.connectArea {
+float: right;
+    width: 500px;
+    height: 300px;
+}
+.mainContentSec{
+    background-color: lightgray;
+    height: 300px;
+}
+.mainContent {
+
+    background-color: lightgray;
+    height: 500px;
+
+
+}
+
+.myNavButtons {
+
+    margin-top: 35px;
+}
+.myName {
+    font-size: 50px;
+}
+
+.connectBox{
+
+}
+
+.footerSec{
+    margin-top: 40px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    text-align: center ;
+
+}
+
+
+
+.mainContent {
+
+
+}
+
+
+
+      
+
+
+
